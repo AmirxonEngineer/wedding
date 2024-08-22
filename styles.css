@@ -26,6 +26,11 @@ header h1, .details h2 {
     color: #d60051;
 }
 
+span {
+  color: red;
+  font-weight: bold;
+}
+
 .countdown {
     display: flex;
     justify-content: space-around;
